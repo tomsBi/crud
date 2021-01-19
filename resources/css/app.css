@@ -1,0 +1,7 @@
+#formFile::before {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    background-color: #eee;
+    width: 80px;
+}
